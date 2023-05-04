@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>BGC</title>
+  <link rel="stylesheet" href="style.css">
+   <script src="script.js"></script>
+</head>
+<body> 
+  <div class="wrapper">
+  <div> 
+    <header class="header"><h1>A litlle about BGC </h1></header>
+  </div >
+  <div class="container">
+    <div class ="left_section box" >
+        <h3>What is BGC?</h3>
+        </div><class="box>
+        <p> 
+        Hi, HI welcomce to Billionare Girls club, 
+        where we are offer a more tailored approach 
+        to your learn. 
+        </p>>
+    <div>
+        <div class="right_section box">
+            <h2>A little about you!</h2></header>
+
+    </div>   
+    </div>
+</html>
