@@ -25,4 +25,7 @@
 
     </div>   
     </div>
+    <script 
+    src="https://www.googleapis.com/auth/books">
+    </script>
 </html>
